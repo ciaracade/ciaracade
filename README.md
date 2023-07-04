@@ -10,7 +10,7 @@
   </p>
 
   <p align="center">
-    As of now, I'm working on my Minecraft Mod, my SWE Internship with Capital one, and any project that come to mind.
+    As of now, I'm working on my Minecraft Mod, my SWE Internship with Capital One, and any project thatcomese to mind.
   </p>
 
 <h2 align="center">✨ Languages and Tools ✨  </h2>
