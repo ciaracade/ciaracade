@@ -37,7 +37,7 @@
 
 <h2 align="center">✨ Contact ME ✨  </h2>
 <p align="center">
-  <a href="mailto: cadeci@gmail.com">
+  <a href="mailto: cadeci@umich.edu">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=25>
   </a> 
   <a href="https://www.linkedin.com/in/ciaracade/">
