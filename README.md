@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.tenor.com/9vi4zj-RddEAAAAC/aesthetic-anime.gif" width = "500">
+  <img src="https://i.pinimg.com/originals/b4/e3/71/b4e371619042d1e80918d09904e90f7d.gif" width = "500">
 </p>
 
 <h2 align="center">✨ Hi, my name is Ciara Cade ✨  </h2>
