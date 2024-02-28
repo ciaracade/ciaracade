@@ -4,13 +4,12 @@
 
 <h2 align="center">✨ Hi, my name is Ciara Cade ✨  </h2>
 
-
 <p align="center">
-  Currently, a rising junior pursuing my Bachelor of Science in Computer Science and the University of Michigan. I'm into doing my own side projects, like Minecraft mods and general things that help me learn and understand new technologies.
+  Currently a junior pursuing my Bachelor of Science in Computer Science and the University of Michigan. I'm into doing my own side projects, like Minecraft mods and general things that help me learn and understand new technologies. Previosuly interned at Capital One and looking forward to interning at JP Morgan Chase this summer. Highly interested in Fintech oppurtunities. 
   </p>
 
   <p align="center">
-    As of now, I'm working on my Minecraft Mod and any projects that come to mind.
+    As of now, I'm working on class projects, my Minecraft Mod, web apps for games, and any projects that come to mind.
   </p>
 
 <h2 align="center">✨ Languages and Tools ✨  </h2>
@@ -28,12 +27,7 @@
   <img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ   IDEA">
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"   alt="Visual Studio Code">
   <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS">
-
 </p>
-
-
-
-
 
 <h2 align="center">✨ Contact ME ✨  </h2>
 <p align = "center">Are you a recruiter? Email me to access my private repositories! </p>
