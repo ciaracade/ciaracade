@@ -1,5 +1,6 @@
+
 <p align="center">
-  <img src="https://i.pinimg.com/originals/b4/e3/71/b4e371619042d1e80918d09904e90f7d.gif" width = "500">
+  <img src="https://i.pinimg.com/originals/d5/5e/39/d55e3995642b80318211a82e39f09a68.gif" width = "1000">
 </p>
 
 <h2 align="center">✨ Hi, my name is Ciara Cade ✨  </h2>
@@ -27,6 +28,9 @@
   <img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ   IDEA">
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"   alt="Visual Studio Code">
   <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS">
+  <p align=center>  
+  <img align=center src="https://github-readme-stats.vercel.app/api?username=ciaracade&show_icons=true&theme=rose">
+</p>
 </p>
 
 <h2 align="center">✨ Contact ME ✨  </h2>
@@ -41,6 +45,7 @@
   </a> 
 </p>
 
-<p align=center>  
-  <img align=center src="https://github-readme-stats.vercel.app/api?username=ciaracade&show_icons=true&theme=rose">
+
+<p align="center">
+  <img src="https://i.pinimg.com/originals/b4/e3/71/b4e371619042d1e80918d09904e90f7d.gif" width = "1000">
 </p>
