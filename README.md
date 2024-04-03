@@ -3,7 +3,7 @@
   <img src="https://i.pinimg.com/originals/74/ba/b6/74bab6a1e7e5865117e47c2d24feef8f.gif" width = "1000">
 </p>
 
-<h2 align="center">✨ Hi, my name is Ciara Cade ✨  </h2>
+<h2 align="center">✨ Hi, I'm Ciara Cade ✨  </h2>
 <p align="center"> 📚 Current junior studying Computer Science at University of Michigan </p>
 <p align="center"> ⚙️ Previous SWE Intern @ Capital One and incoming SWE Intern at JP Morgan Chase </p>
 <p align="center"> 💡 Interetsed in working on side projects in web dev, Minecraft mods, and anything that comes to mind </p>
@@ -24,7 +24,8 @@
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"   alt="Visual Studio Code">
   <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS">
   <p align=center>  
-  <img align=center src="https://github-readme-stats.vercel.app/api?username=ciaracade&show_icons=true&theme=rose">
+  <img width ="40%" src="https://github-readme-stats.vercel.app/api?username=ciaracade&show_icons=true&theme=rose">
+    <img  width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ciaracade&layout=compact&theme=rose" />
   </p>
 </p>
 
