@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/d5/5e/39/d55e3995642b80318211a82e39f09a68.gif" width = "1000">
+  <img src="https://i.pinimg.com/originals/74/ba/b6/74bab6a1e7e5865117e47c2d24feef8f.gif" width = "1000">
 </p>
 
 <h2 align="center">✨ Hi, my name is Ciara Cade ✨  </h2>
