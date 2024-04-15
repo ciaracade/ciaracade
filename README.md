@@ -3,10 +3,12 @@
   <img src="https://i.pinimg.com/originals/74/ba/b6/74bab6a1e7e5865117e47c2d24feef8f.gif" width = "1000">
 </p>
 
-<h2 align="center">✨ Hi, I'm Ciara Cade ✨  </h2>
-<p align="center"> 📚 Current junior studying Computer Science at University of Michigan </p>
-<p align="center"> ⚙️ Previous SWE Intern @ Capital One and incoming SWE Intern at JP Morgan Chase </p>
-<p align="center"> 💡 Interetsed in working on side projects in web dev, Minecraft mods, and anything that comes to mind </p>
+<h2 align="center">✨ Hi, I'm Ciara Cade ✨ </h2>
+<p align="center"> 📚 Current rising senior studying Computer Science at University of Michigan </p>
+<p align="center"> ⚙️ Previous SWE Intern @ Capital One and incoming SWE Intern at Uber </p>
+<p align="center"> 🏆 I've won two hackathons @ JP Morgan Chase and Capital One </p>
+<p align="center"> 💡 Interetsed in working on side projects in web dev, Minecraft mods, backend dev, and anything that comes to mind that builds skill</p>
+
 
 <h2 align="center">✨ Languages and Tools ✨  </h2>
 
