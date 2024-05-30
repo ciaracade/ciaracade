@@ -5,7 +5,8 @@
 
 <h2 align="center">✨ Hi, I'm Ciara Cade ✨ </h2>
 <p align="center"> 📚 Current rising senior studying Computer Science at University of Michigan </p>
-<p align="center"> ⚙️ Previous SWE Intern @ Capital One and incoming SWE Intern at Uber </p>
+<p align="center"> 👩🏽‍💻 IT Consultant and Developer at Umich Biomedical Engineering </p>
+<p align="center"> ⚙️ Previous SWE Intern @ Capital One and current SWE Intern at Uber </p>
 <p align="center"> 🏆 I've won two hackathons @ JP Morgan Chase and Capital One </p>
 <p align="center"> 💡 Interetsed in working on side projects in web dev, Minecraft mods, backend dev, and anything that comes to mind that builds skill</p>
 
