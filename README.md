@@ -8,7 +8,7 @@
 <p align="center"> 👩🏽‍💻 IT Consultant and Developer at UMich Biomedical Engineering </p>
 <p align="center"> ⚙️ Previous SWE Intern @ Capital One and current SWE Intern at Uber </p>
 <p align="center"> 🏆 I've won two hackathons @ JP Morgan Chase and Capital One </p>
-<p align="center"> 💡 Interetsed in working on side projects in web dev, Minecraft mods, backend dev, and anything that comes to mind that builds skill</p>
+<p align="center"> 💡 Interetsed in working on fullstack projects, Minecraft mods, and anything that comes to mind that builds skill</p>
 
 
 <h2 align="center">✨ Languages and Tools ✨  </h2>
