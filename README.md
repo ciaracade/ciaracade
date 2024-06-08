@@ -45,8 +45,8 @@
   <img src="https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white">
     </p>
   <p align=center>  
-  <img width ="40%" src="https://github-readme-stats.vercel.app/api?username=ciaracade&show_icons=true&theme=rose">
-    <img  width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ciaracade&layout=compact&theme=rose" />
+  <img width ="40%" src="https://github-readme-stats.vercel.app/api?username=ciaracade&show_icons=true&theme=rose&locale=ja">
+    <img  width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ciaracade&layout=compact&theme=rose&locale=ja" />
   </p>
 </p>
 
