@@ -46,7 +46,7 @@
     </p>
   <p align=center>  
   <img width ="40%" src="https://github-readme-stats.vercel.app/api?username=ciaracade&show_icons=true&theme=rose&locale=ja">
-    <img  width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ciaracade&layout=compact&theme=rose&locale=ja" />
+    <img  width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ciaracade&layout=compact&theme=rose&locale=ja&size_weight=0.2&count_weight=.8" />
   </p>
 </p>
 
