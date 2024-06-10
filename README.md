@@ -11,7 +11,7 @@
 <p align="center"> 💡 Interetsed in working on fullstack projects, Minecraft mods, and anything that comes to mind that builds skill</p>
 
 
-<h3 align="center">✨ Things I've worked with ✨  </h3>
+<h3 align="center">✨ Technologies I've worked with ✨  </h3>
 
 <p align="center">
   <p align="center">
