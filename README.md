@@ -6,14 +6,13 @@
 <h2 align="center">✨ Hi, I'm Ciara Cade ✨ </h2>
 <p align="center"> 📚 Current rising senior studying Computer Science at University of Michigan </p>
 <p align="center"> ⚙️ Prev SWE Intern @ Capital One and Uber </p>
-<p align="center"> 📍 See my current rotation of projects in development below!</p>
-
 <p align="center">
     👾 Founder at <a href="https://www.linkedin.com/company/the-tech-cadets/">The Tech Cadets</a>
 </p>
 <p align="center"> 👩🏽‍💻 IT Consultant and Developer at UMich Biomedical Engineering </p>
 <p align="center"> 🏆 I've won two hackathons @ JP Morgan Chase and Capital One </p>
 <p align="center"> 💡 Working on fullstack projects, Minecraft mods, and anything that comes to mind that builds skill</p>
+<p align="center"> 📍 See my current rotation of projects in development below!</p>
 
 
 <h3 align="center">✨ Technologies I've worked with ✨  </h3>
