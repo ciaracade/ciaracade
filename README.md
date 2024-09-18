@@ -64,12 +64,6 @@
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25>  
   </a> 
 </p>
-<!---
-![github contribution grid snake animation](https://raw.githubusercontent.com/ciaracade/ciaracade/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-![github contribution grid snake animation](https://raw.githubusercontent.com/ciaracade/ciaracade/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-
 <p align="center">
-  <img src="https://i.pinimg.com/originals/b4/e3/71/b4e371619042d1e80918d09904e90f7d.gif" width = "1000">
+  <img src="https://leetcard.jacoblin.cool/Ciaracade03?border=0&radius=20&ext=heatmap">
 </p>
-//--->
-
