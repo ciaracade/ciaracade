@@ -64,6 +64,8 @@
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25>  
   </a> 
 </p>
+<!-- Let's show this stat when I'm not ass
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/Ciaracade03?border=0&radius=20&ext=heatmap">
 </p>
+-->
