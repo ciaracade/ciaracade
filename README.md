@@ -13,6 +13,7 @@
 <p align="center"> 🏆 Two-time hackathon winner @ JP Morgan Chase and Capital One.</p>
 <p align="center"> 🌐 Passionate about meaningful contributions to Open Source projects!</p>
 <p align="center"> 💡 Currently working on full-stack applications, Minecraft mods, and startup/competition projects.</p>
+<p align="center"> 🇯🇵 Studying for the N3 level of the JLPT (Japanese Language Proficiency Test).</p>
 <p align="center"> 📍 Explore my active projects below!</p>
 
 
