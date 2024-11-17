@@ -11,7 +11,7 @@
 </p>
 <p align="center"> 👩🏽‍💻 IT Consultant and Developer at UMich Biomedical Engineering </p>
 <p align="center"> 🏆 I've won two hackathons @ JP Morgan Chase and Capital One </p>
-<p align="center"> 💡 Working on fullstack projects, Minecraft mods, and anything that comes to mind that builds skill</p>
+<p align="center"> 💡 I'm currently working on full-stack projects, Minecraft mods, and competition projects</p>
 <p align="center"> 📍 See my current rotation of projects in development below!</p>
 
 
