@@ -1,27 +1,31 @@
-
 <p align="center">
-  <img src="https://i.pinimg.com/originals/05/49/5a/05495a9e23b88afd4d956bbe2ab9d176.gif" width = "1000" height="200">
+  <img src="https://i.pinimg.com/originals/05/49/5a/05495a9e23b88afd4d956bbe2ab9d176.gif" width="1000" height="200">
 </p>
 
-<h2 align="center">✨ Hi, I'm Ciara Cade ✨</h2>
-<p align="center"> 📚 Senior at the University of Michigan, majoring in Computer Science.</p>
-<p align="center"> ⚙️ Former SWE Intern @ Capital One and Uber.</p>
-<p align="center">
-    👾 Founder of <a href="https://www.linkedin.com/company/the-tech-cadets/">The Tech Cadets</a>.
-</p>
-<p align="center"> 👩🏽‍💻 IT Consultant & Developer for UMich Biomedical Engineering.</p>
-<p align="center"> 🏆 Two-time hackathon winner @ JP Morgan Chase and Capital One.</p>
-<p align="center"> 🌐 Passionate about meaningful contributions to Open Source projects!</p>
-<p align="center"> 💡 Currently working on full-stack applications, Minecraft mods, and startup/competition projects.</p>
-<p align="center"> 🇯🇵 Studying for the N3 level of the JLPT (Japanese Language Proficiency Test).</p>
-<p align="center"> 📍 Explore my active projects below!</p>
+```
+                                         ✨ Hi, I'm Ciara Cade ✨
+```
 
-<h2 align="center">#30NitesOfCode:</h2>
+- 📚 Senior at the University of Michigan, majoring in Computer Science.  
+- ⚙️ Former SWE Intern @ Capital One and Uber.  
+- 👾 Founder of [The Tech Cadets](https://www.linkedin.com/company/the-tech-cadets/).  
+- 👩🏽‍💻 IT Consultant & Developer for UMich Biomedical Engineering.  
+- 🏆 Two-time hackathon winner @ JP Morgan Chase and Capital One.  
+- 🌐 Passionate about meaningful contributions to Open Source projects!  
+- 💡 Currently working on full-stack applications, Minecraft mods, and startup/competition projects.  
+- 🇯🇵 Studying for the N3 level of the JLPT (Japanese Language Proficiency Test).  
+- 📍 Explore my active projects below!
+
+```
+                                          ✨ #30NitesOfCode ✨
+```
+
 <p align="center"><a href="https://www.codedex.io/@ciaracade/30-nites-of-code">Check out my progress!</a></p>
 <p align="center"><img src="https://www.codedex.io/api/petStatus?user=ciaracade" alt="@ciaracade #30NitesOfCode" /></p>
 
-
-<h3 align="center">✨ Technologies I've worked with ✨  </h3>
+```
+                                    ✨ Technologies I've Worked With ✨
+```
 
 <p align="center">
   <p align="center">
@@ -59,19 +63,20 @@
   </p>
 </p>
 
-<h2 align="center">✨ Contact ME ✨  </h2>
+```
+                                             ✨ Contact ME ✨
+```
 <p align = "center">Are you a recruiter? Email me to access my private repositories! </p>
 <p align="center">
   
   <a href="mailto: cadeci@umich.edu">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=25>
+    <img src="https://img.shields.io/badge/Gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white" height=25>
   </a> 
   <a href="https://www.linkedin.com/in/ciaracade/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25>  
   </a> 
-</p>
 <!-- Let's show this stat when I'm not ass
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/Ciaracade03?border=0&radius=20&ext=heatmap">
-</p>
--->
+</p> 
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ciaracade/)
