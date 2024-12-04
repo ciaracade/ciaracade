@@ -17,13 +17,6 @@
 - 📍 Explore my active projects below!
 
 ```
-                                          ✨ #30NitesOfCode ✨
-```
-
-<p align="center"><a href="https://www.codedex.io/@ciaracade/30-nites-of-code">Check out my progress!</a></p>
-<p align="center"><img src="https://www.codedex.io/api/petStatus?user=ciaracade" alt="@ciaracade #30NitesOfCode" /></p>
-
-```
                                     ✨ Technologies I've Worked With ✨
 ```
 
@@ -74,7 +67,16 @@
   </a> 
   <a href="https://www.linkedin.com/in/ciaracade/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25>  
-  </a> 
+  </a>
+
+
+```
+                                          ✨ #30NitesOfCode ✨
+```
+
+<p align="center"><a href="https://www.codedex.io/@ciaracade/30-nites-of-code">Check out my progress!</a></p>
+<p align="center"><img src="https://www.codedex.io/api/petStatus?user=ciaracade" alt="@ciaracade #30NitesOfCode" /></p>
+
 <!-- Let's show this stat when I'm not ass
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/Ciaracade03?border=0&radius=20&ext=heatmap">
