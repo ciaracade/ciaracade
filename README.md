@@ -2,7 +2,7 @@
   <img src="https://i.pinimg.com/originals/05/49/5a/05495a9e23b88afd4d956bbe2ab9d176.gif" width="1000" height="200">
 </p>
 
-```
+```bash
                                          ✨ Hi, I'm Ciara Cade ✨
 ```
 
@@ -14,9 +14,8 @@
 - 🌐 Passionate about meaningful contributions to Open Source projects!  
 - 💡 Currently working on full-stack applications, Minecraft mods, and startup/competition projects.  
 - 🇯🇵 Studying for the N3 level of the JLPT (Japanese Language Proficiency Test).  
-- 📍 Explore my active projects below!
 
-```
+```bash
                                     ✨ Technologies I've Worked With ✨
 ```
 
@@ -56,7 +55,7 @@
   </p>
 </p>
 
-```
+```bash
                                              ✨ Contact ME ✨
 ```
 <p align = "center">Are you a recruiter? Email me to access my private repositories! </p>
