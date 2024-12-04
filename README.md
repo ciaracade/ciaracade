@@ -16,6 +16,9 @@
 <p align="center"> 🇯🇵 Studying for the N3 level of the JLPT (Japanese Language Proficiency Test).</p>
 <p align="center"> 📍 Explore my active projects below!</p>
 
+<h2 align="center">#30NitesOfCode:</h2>
+<p align="center"><a href="https://www.codedex.io/@ciaracade/30-nites-of-code">Check out my progress!</a></p>
+<p align="center"><img src="https://www.codedex.io/api/petStatus?user=ciaracade" alt="@ciaracade #30NitesOfCode" /></p>
 
 
 <h3 align="center">✨ Technologies I've worked with ✨  </h3>
