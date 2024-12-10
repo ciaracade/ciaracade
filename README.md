@@ -16,7 +16,7 @@
 - 🇯🇵 Studying for the N3 level of the JLPT (Japanese Language Proficiency Test).  
 
 ```bash
-                                    ✨ Technologies I've Worked With ✨
+                                      ✨ Technologies I've Worked With ✨
 ```
 
 <p align="center">
@@ -56,7 +56,7 @@
 </p>
 
 ```bash
-                                             ✨ Contact ME ✨
+                                               ✨ Contact ME ✨
 ```
 <p align = "center">Are you a recruiter? Email me to access my private repositories! </p>
 <p align="center">
@@ -70,7 +70,7 @@
 
 
 ```
-                                          ✨ #30NitesOfCode ✨
+                                             ✨ #30NitesOfCode ✨
 ```
 
 <p align="center"><a href="https://www.codedex.io/@ciaracade/30-nites-of-code">Check out my progress!</a></p>
