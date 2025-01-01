@@ -16,7 +16,7 @@
 - 🇯🇵 Studying for the N3 level of the JLPT (Japanese Language Proficiency Test).  
 
 ```bash
-                                      ✨ Technologies I've Worked With ✨
+                                      ✨ 使用した技術 ✨
 ```
 
 <p align="center">
