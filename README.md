@@ -11,12 +11,12 @@
 - 👾 Founder of [The Tech Cadets](https://www.linkedin.com/company/the-tech-cadets/).  
 - 👩🏽‍💻 IT Consultant & Developer for UMich Biomedical Engineering.  
 - 🏆 Two-time hackathon winner @ JP Morgan Chase and Capital One.  
-- 🌐 Passionate about meaningful contributions to Open Source projects!  
+- 🌐 Passionate about meaningful contributions to Open Source (オープンソース) projects!  
 - 💡 Currently working on full-stack applications, Minecraft mods, and startup/competition projects.  
 - 🇯🇵 Studying for the N3 level of the JLPT (Japanese Language Proficiency Test).  
 
 ```bash
-                                      ✨ 使用した技術 ✨
+                                      　　　　✨ 使用した技術 ✨
 ```
 
 <p align="center">
@@ -56,7 +56,7 @@
 </p>
 
 ```bash
-                                               ✨ Contact ME ✨
+                                               ✨ 連絡先 ✨
 ```
 <p align = "center">Are you a recruiter? Email me to access my private repositories! </p>
 <p align="center">
@@ -70,7 +70,7 @@
 
 
 ```
-                                             ✨ #30NitesOfCode ✨
+                                            　 ✨ #30NitesOfCode ✨
 ```
 
 <p align="center"><a href="https://www.codedex.io/@ciaracade/30-nites-of-code">Check out my progress!</a></p>
