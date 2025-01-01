@@ -3,7 +3,7 @@
 </p>
 
 ```bash
-                                         ✨ Hi, I'm Ciara Cade ✨
+                                         ✨ こんにちは, 私の名前はシエラ•ケードードです。✨
 ```
 
 - 📚 Senior at the University of Michigan, majoring in Computer Science.  
