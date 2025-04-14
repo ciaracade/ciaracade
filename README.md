@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://i.pinimg.com/originals/05/49/5a/05495a9e23b88afd4d956bbe2ab9d176.gif" width="1000" height="200">
+</p>
+
 <h1 align="center">Hi, I'm <a href="https://www.ciaracade.com">Ciara Cade</a> 👋</h1>
 
 <p align="center" text-align="start">
@@ -69,7 +73,3 @@
   <a href="https://www.linkedin.com/in/ciaracade/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25>  
   </a>
-
-  <p align="center">
-  <img src="https://i.pinimg.com/originals/05/49/5a/05495a9e23b88afd4d956bbe2ab9d176.gif" width="1000" height="200">
-</p>
