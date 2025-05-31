@@ -6,7 +6,7 @@
 
 <p align="center" text-align="start">
   🚀 Senior @ University of Michigan studying Computer Science<br>
-  ⚙️ SWE Internships @ Uber & Capital One → Incoming SDE @ Amazon<br>
+  ⚙️ SWE Internships @ Uber & Capital One → Current SDE Intern @ Amazon<br>
   👩🏽‍💻 IT Consultant & Developer for UMich Biomedical Engineering<br>
   🏆 2x Hackathon Winner – JPMorgan Chase & Capital One<br>
   🧠 OpenAI Scholar – Recognized for contributions to the tech community<br>
