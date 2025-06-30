@@ -12,6 +12,7 @@
   🧠 OpenAI Scholar – Recognized for contributions to the tech community<br>
   💡 Building <a href="https://www.sourceship.dev/">SourceShip.dev</a> | Passionate about open source & real-world impact<br>
   🌐 Currently preparing for JLPT N3 🇯🇵<br>
+   I love MCP servers <br>
 </p>
 
 <h2 align="center">🛠️ Tech Stack</h2>
