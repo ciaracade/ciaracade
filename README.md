@@ -12,7 +12,7 @@
 
 - 2x Hackathon Winner – JPMorgan Chase & Capital One | OpenAI Scholarship Awardee
 
-- Preparing for JLPT N#
+- Preparing for Intermediate Japanese Language Proficiency Exam (JLPT N3) 
 
 - Building [SourceShip.dev](https://www.sourceship.dev/), the open source internship alternative.
 
