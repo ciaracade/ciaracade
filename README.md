@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://s1.ezgif.com/tmp/ezgif-13524f7eead974.gif" width="100%" height="150">
-</p>
-
 [Ciara Cade](https://www.ciaracade.com) 🧝🏼‍♀️
 =
 ![](https://komarev.com/ghpvc/?username=ciaracade&color=ff69b4&style=plastic)
