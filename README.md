@@ -10,6 +10,6 @@
 
 Building [SourceShip.dev](https://www.sourceship.dev/), the open source internship alternative.
 
-💗 I love LLM tools. \
+💗 I love LLM tools and infra. \
 💗 I love gaming on my Playstation and my PC. \
 💗 I'm studying for my intermediate Japanese Language Proficiency Exam (JLPT N3)
