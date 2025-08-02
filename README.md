@@ -8,7 +8,7 @@
 - won first place at **two hackathons with Capital One and JP Morgan Chase**
 - prev **Open AI scholarship awardee**.
 
-Building \
+
 [SourceShip.dev](https://www.sourceship.dev/) , the open source internship alternative. \
 [UMich-MCP](https://github.com/ciaracade/umich-mcp) , the mcp server for wolverines. \
 [Nauta](https://github.com/audgeviolin07/ios) , the fishbowl for your iphone.
