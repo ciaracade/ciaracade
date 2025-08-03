@@ -11,7 +11,7 @@
 
 [SourceShip.dev](https://www.sourceship.dev/) , the open source internship alternative. \
 [UMich-MCP](https://github.com/ciaracade/umich-mcp) , the mcp server for wolverines. \
-[Nauta](https://github.com/ciaracade/Nauta) , the fishbowl widget for your iphone. \
+[Nauta](https://github.com/ciaracade/Nauta) , the fishbowl widget for your iphone. 
 
 💗 I love LLM tools and infra. \
 💗 I love gaming on my Playstation and my PC. \
