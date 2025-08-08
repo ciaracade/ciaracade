@@ -1,11 +1,12 @@
-[Ciara Cade](https://www.ciaracade.com) 🧝🏼‍♀️
+𓏲 ࣪˖♡𓂃 🧝🏼‍♀️ 
 =
 ![](https://komarev.com/ghpvc/?username=ciaracade&color=ff69b4&style=plastic)
 
-- cs @ UMich Ann-Arbor
+Heyyyyy, I'm [Ciara Cade](https://www.ciaracade.com) and I'm:
+- a cs @ UMich Ann-Arbor
 - current SDE Intern @ **Amazon** and prev SWE Intern @ **Uber and Capital One** 
 - sometimes developing and IT-ing with **University of Michigan Department of Biomedical Engineering IT**
-- won first place at **two hackathons with Capital One and JP Morgan Chase**
+- a first place winner **two hackathons with Capital One and JP Morgan Chase**
 - prev **Open AI scholarship awardee**.
 
 
