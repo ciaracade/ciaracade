@@ -12,7 +12,7 @@
 ###### Currently working on:
 [SourceShip.dev](https://www.sourceship.dev/) , the open source internship alternative. \
 [UMich-MCP](https://github.com/ciaracade/umich-mcp) , the mcp server for wolverines. \
-[Cloud VPC Health and Utilization Metric API](https://github.com/ciaracade/graded-aws-metric-api), API that grades your VPCs storage efficiency.
+[Cloud VPC Health and Utilization Metric API](https://github.com/ciaracade/graded-aws-metric-api), API that grades your AWS VPCs storage efficiency.
 
 💗 I love LLM tools and infra. \
 💗 I love gaming on my Playstation and my PC. \
