@@ -4,7 +4,7 @@
 
 ###### Heyyyyy, I'm [Ciara Cade](https://www.ciaracade.com) and I'm:
 - a cs @ UMich Ann-Arbor
-- current SDE Intern @ **Amazon** and prev SWE Intern @ **Uber and Capital One** 
+- prev SWE Intern @ ****Amazon, Uber and Capital One** 
 - sometimes developing and IT-ing with **University of Michigan Department of Biomedical Engineering IT**
 - a first place winner **two hackathons with Capital One and JP Morgan Chase**
 - prev **Open AI scholarship awardee**.
