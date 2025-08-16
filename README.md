@@ -2,12 +2,13 @@
 =
 ![](https://komarev.com/ghpvc/?username=ciaracade&color=ff69b4&style=plastic)
 
-###### Heyyyyy, I'm [Ciara Cade](https://www.ciaracade.com) and I'm:
-- a cs @ UMich Ann-Arbor
-- prev SWE Intern @ ****Amazon, Uber and Capital One** 
-- sometimes developing and IT-ing with **University of Michigan Department of Biomedical Engineering IT**
-- a first place winner **two hackathons with Capital One and JP Morgan Chase**
+###### Heyyyyy, I'm [Ciara Cade](https://www.ciaracade.com) and I'm a:
+- cs @ UMich Ann-Arbor
+- prev SWE Intern @ **Amazon, Uber and Capital One**
 - prev **Open AI scholarship awardee**.
+- IT consultant at  **University of Michigan Department of Biomedical Engineering**
+- 2x hackathon winner @ **Capital One and JP Morgan Chase**
+
 
 ###### Currently working on:
 [SourceShip.dev](https://www.sourceship.dev/) , the open source internship alternative. \
