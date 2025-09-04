@@ -13,6 +13,9 @@
 ###### Currently working on:
 [SourceShip.dev](https://www.sourceship.dev/) , the open source internship alternative. \
 [UMich-MCP](https://github.com/ciaracade/umich-mcp) , the mcp server for wolverines. \
+[MorphosisAI](https://github.com/ciaracade/MorphosisAI)), AI powered stream aggregation for Apache Kafka pipelines.
+
+###### Just finished:
 [Cloud VPC Health and Utilization Metric API](https://github.com/ciaracade/graded-aws-metric-api), API that grades your AWS VPCs storage efficiency.
 
 💗 I love LLM tools and infra. \
