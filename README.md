@@ -13,7 +13,7 @@
 ###### Currently working on:
 [SourceShip.dev](https://www.sourceship.dev/) , the open source internship alternative. \
 [UMich-MCP](https://github.com/ciaracade/umich-mcp) , the mcp server for wolverines. \
-[MorphosisAI](https://github.com/ciaracade/MorphosisAI), AI powered stream aggregation for Apache Kafka pipelines.
+[MorphosisAI](https://github.com/ciaracade/MorphosisAI), AI powered stream aggregation for Apache Kafka pipelines. \
 [BabyRedis](https://github.com/ciaracade/babyredis), in memory sqlite disguised as an alt redis python package.
 
 ###### Just finished:
