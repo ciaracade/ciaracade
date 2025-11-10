@@ -10,7 +10,6 @@ I previously interned as a Software Engineer intern at **Capital One**, **Uber**
 
 I'm also a tech creator on LinkedIn/X. In fact, I was once awarded a scholarship by OpenAI for my contributions to the tech community.
 
-
 ###### Currently working on:
 [MorphosisAI](https://github.com/ciaracade/MorphosisAI), AI powered stream aggregation for Apache Kafka pipelines. \
 [SourceShip.dev](https://www.sourceship.dev/) , the open source internship alternative. \
