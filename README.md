@@ -4,11 +4,11 @@
 
 ###### Heyyyyy, I'm [Ciara Cade](https://www.ciaracade.com).
 
-- I'm a Computer Science senior at the University of Michigan.
-- I previously interned as a Software Engineer intern at **Capital One**, **Uber**, and **Amazon**.
-- I hold two first place wins in the Capital One Banking for Good and JP Morgan Chase Coding for Good hackathon.
-- I'm also a tech creator on LinkedIn/X. In fact, I was once awarded a scholarship by OpenAI for my contributions to the tech community.
-- At my university, I spent some time as an IT consultant for the Biomedical Engineering Department at the University of Michigan. 
+I'm a Computer Science senior at the University of Michigan, where I spent most of my time as an IT consultant for the Biomedical Engineering Department at the University of Michigan. 
+
+I previously interned as a Software Engineer intern at **Capital One**, **Uber**, and **Amazon** and I hold two first place wins in the Capital One Banking for Good and JP Morgan Chase Coding for Good hackathon.
+
+I'm also a tech creator on LinkedIn/X. In fact, I was once awarded a scholarship by OpenAI for my contributions to the tech community.
 
 
 ###### Currently working on:
