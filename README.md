@@ -11,9 +11,10 @@ I previously interned as a Software Engineer Intern at **Capital One**, **Uber**
 I'm also a tech creator on LinkedIn/X. In fact, I was once awarded a scholarship by OpenAI for my contributions to the tech community.
 
 ###### Currently working on:
-[MorphosisAI](https://github.com/ciaracade/MorphosisAI), AI powered stream aggregation for Apache Kafka pipelines. \
-[SourceShip.dev](https://www.sourceship.dev/) , the open source internship alternative. \
-[UMich-MCP](https://github.com/ciaracade/umich-mcp) , the mcp server for wolverines. 
+[MorphosisAI](https://github.com/ciaracade/MorphosisAI) - AI powered stream aggregation for Apache Kafka pipelines. \
+[SourceShip.dev](https://www.sourceship.dev/) - the open source internship alternative. \
+[UMich-MCP](https://github.com/ciaracade/umich-mcp) - the mcp server for wolverines. \
+[C to LC2K Compiler](https://github.com/ciaracade/lc2k-compiler) - for funsies.
 
 ###### Just finished:
 [Cloud VPC Health and Utilization Metric API](https://github.com/ciaracade/graded-aws-metric-api), API that grades your AWS VPCs storage efficiency.
