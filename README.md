@@ -8,7 +8,7 @@ I'm a Computer Science senior at the University of Michigan, where I spent most 
 
 I previously interned as a Software Engineer Intern at **Capital One**, **Uber**, and **Amazon**, and I won first place in the Capital One Banking for Good and JP Morgan Chase Coding for Good hackathons.
 
-I'm also a tech creator on LinkedIn/X. In fact, I was once awarded a scholarship by OpenAI for my contributions to the tech community.
+I'm also a tech creator on LinkedIn, once awarded a scholarship by OpenAI for my contributions to the tech community.
 
 ###### Currently working on:
 [MorphosisAI](https://github.com/ciaracade/MorphosisAI) - AI powered stream aggregation for Apache Kafka pipelines. \
