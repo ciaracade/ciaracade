@@ -2,7 +2,7 @@
 =
 ![](https://komarev.com/ghpvc/?username=ciaracade&color=ff69b4&style=plastic)
 
-![Total Stars](https://img.shields.io/badge/total__stars-6-FFB6C1?style=flat&logo=github)
+![Total Stars](https://img.shields.io/badge/total_stars-6-FFB6C1?style=flat&logo=github)
 
 ###### Heyyyyy, I'm [Ciara Cade](https://www.ciaracade.com).
 
